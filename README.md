@@ -15,13 +15,13 @@ Para clonar y probar este proyecto localmente, sigue estos pasos:
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/tu-repo.git
+    git clone https://github.com/Xang-Shoku-Liao/ActividadDevOps.git
     ```
 
 2. Accede al directorio:
 
     ```bash
-    cd tu-repo
+    cd ActividadDevOps
     ```
 
 ## Uso
