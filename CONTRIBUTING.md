@@ -1,8 +1,6 @@
-**2. Archivo `CONTRIBUTING.md`**
-```markdown
 # 🤝 Guía para Colaboradores
 
-¡Gracias por tu interés en contribuir a este proyecto! 
+¡Gracias por tu interés en contribuir a este proyecto!
 
 ## 📝 Reglas Básicas
 
@@ -15,3 +13,4 @@
 * Asegúrate de que los GitHub Actions estén en verde (✅).
 * Solicita al menos la revisión de 1 integrante del equipo.
 * Una vez aprobado, haz el *merge* a `develop`.
+* 
