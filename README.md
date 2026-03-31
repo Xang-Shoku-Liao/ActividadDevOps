@@ -4,9 +4,9 @@ Este repositorio es una evaluación práctica sobre los fundamentos de Git, mode
 
 ## Tabla de Contenidos
 
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Tecnologías](#tecnologías)
+- [Instalación](instalación)
+- [Uso](uso)
+- [Tecnologías](tecnologías)
 
 ## Instalación
 
