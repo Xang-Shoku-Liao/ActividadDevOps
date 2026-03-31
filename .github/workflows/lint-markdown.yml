@@ -2,7 +2,7 @@ name: Lint Markdown
 
 on:
   push:
-    branches: [ "**" ] # Se ejecuta en cualquier push
+    branches: [ "main" ] # Se ejecuta en cualquier push
   pull_request:
     branches: [ "main", "develop" ] # Se ejecuta en PRs hacia estas ramas
 
