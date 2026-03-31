@@ -30,6 +30,6 @@ Este proyecto no requiere ejecución de código, su propósito es la validación
 
 ## Tecnologías
 
-* Git
-* GitHub Actions
-* Markdownlint
+- Git
+- GitHub Actions
+- Markdownlint
